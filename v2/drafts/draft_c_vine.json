@@ -1,0 +1,14 @@
+{
+ "z_top": 68.0,
+ "funnel": {
+  "flange_d": 60.0,
+  "flange_t": 1.0,
+  "basket_d": 54.0,
+  "basket_d_bottom": 51.0,
+  "basket_h": 22.0,
+  "stem_d": 11.0,
+  "stem_len": 40.0
+ },
+ "fit": 0.2,
+ "seat_h": 5.0
+}
